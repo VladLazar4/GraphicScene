@@ -1,0 +1,462 @@
+# Blender 4.0.2 MTL File: 'overworld.blend'
+# www.blender.org
+
+newmtl 10445_Oak_tree_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Obiecte/tree/10445_Oak_Tree_v1_diffuse.jpg
+
+newmtl Axis.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl BigJello1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.488095
+illum 9
+map_Kd Obiecte/picnic-table-set/textures/Set_BigJello_BaseColor.png
+
+newmtl Bolts.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/paint.jpg
+
+newmtl Bottle2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.619048
+illum 9
+map_Kd Obiecte/picnic-table-set/textures/Set_Bottle_BaseColor.png
+
+newmtl Bronze_RodRings.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/paint.jpg
+
+newmtl Bronze_Spool.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/paint.jpg
+
+newmtl CampfireSG.002
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Obiecte/fireplace/Textures/Optimized/Campfire_MAT_BaseColor_01.jpg
+
+newmtl Glasses4
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Glasses_BaseColor.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/road_texture2.jpg
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/road_texture2.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/grass.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/water2.jpg
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/cabin_floor.jpg
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/road_texture2.jpg
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/road_texture2.jpg
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/road_texture2.jpg
+
+newmtl Metal.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/swing-chair/textures/Wood_BaseColor.png
+map_Ns C:/Metal_Roughness.png
+map_refl C:/Metal_Metallic.png
+map_Bump -bm 1.000000 C:/Metal_Normal.png
+
+newmtl Metal.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/swing-chair/textures/Wood_BaseColor.png
+map_Ns C:/Metal_Roughness.png
+map_refl C:/Metal_Metallic.png
+map_Bump -bm 1.000000 C:/Metal_Normal.png
+
+newmtl Metal_rings.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/paint.jpg
+
+newmtl Pepperoni
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Pizza_BaseColor.png
+
+newmtl Pizza
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Pizza_BaseColor.png
+
+newmtl PizzaBox
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_PizzaBox_BaseColor.png
+
+newmtl Plate
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Plate_BaseColor.png
+
+newmtl Rope.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/paint.jpg
+
+newmtl SmallJello1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.189700 0.439800 0.094800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Table1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Table_BaseColor.png
+
+newmtl TableCloth
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_TableCloth_BaseColor.png
+
+newmtl Textured
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/log/hi_obj.jpg
+
+newmtl TopBottle
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_TopBottle_BaseColor.png
+
+newmtl Wood.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/swing-chair/textures/Wood_BaseColor.png
+map_Ns C:/Wood_Roughness.png
+map_refl C:/Wood_Metallic.png
+map_Bump -bm 1.000000 C:/Wood_Normal.png
+
+newmtl Wood.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/swing-chair/textures/Wood_BaseColor.png
+map_Ns C:/Wood_Roughness.png
+map_refl C:/Wood_Metallic.png
+map_Bump -bm 1.000000 C:/Wood_Normal.png
+
+newmtl Wooden_rod.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/fishing-rod/textures/textura_lemn.png
+
+newmtl blinn1SG
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/seesaw/Wood_BaseColor.png
+map_Ns Obiecte/seesaw/Wood_Roughness.png
+map_refl Obiecte/seesaw/Wood_Metallic.png
+
+newmtl emission_light
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/lamp/textures/glass ball/glass ball_Base_color.png
+
+newmtl glass_ball
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/lamp/textures/glass ball/glass ball_Base_color.png
+
+newmtl handle
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/lamp/textures/handle/handle_Base_color.png
+
+newmtl initialShadingGroup
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Obiecte/cabin/textures/initialShadingGroup_albedo.jpeg
+
+newmtl lambert2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/chair/weapon_rack_wood.png
+map_Bump -bm 1.000000 C:/spooky wood bump map.tif
+
+newmtl lamp_top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/lamp/textures/lamp top/lamp top_Base_color.png
+
+newmtl light_blub_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Obiecte/lamp/textures/light bulb/light blub_Base_color.png
+
+newmtl oreos
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_oreos_BaseColor.png
+
+newmtl standardSurface1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Obiecte/picnic-table-set/textures/Set_Table_BaseColor.png
+
+newmtl windmill_001_base_COL_jpg
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Obiecte/windmill/textures/windmill_001_base_COL.png
+
+newmtl windmill_001_lopatky_COL_jpg
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Obiecte/windmill/textures/windmill_001_lopatky_COL.png

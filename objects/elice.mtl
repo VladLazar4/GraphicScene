@@ -1,0 +1,22 @@
+# Blender 4.0.2 MTL File: 'overworld.blend'
+# www.blender.org
+
+newmtl windmill_001_lopatky_COL_jpg.004
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Obiecte/windmill/textures/windmill_001_lopatky_COL.png
+
+newmtl windmill_001_lopatky_COL_jpg.005
+Ns 1.300799
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Obiecte/windmill/textures/windmill_001_lopatky_COL.png

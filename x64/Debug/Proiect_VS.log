@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+  main.cpp
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(246,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(247,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(251,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(252,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(253,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(254,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(738,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Vlad\Teme\PG\Proiect_VS\Proiect_VS\main.cpp(743,19): warning C4305: '-=': truncation from 'double' to 'float'
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Proiect_VS.vcxproj -> D:\Vlad\Teme\PG\Proiect_VS\x64\Debug\Proiect_VS.exe
